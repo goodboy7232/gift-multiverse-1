@@ -1,0 +1,2 @@
+- [Gift Multiverse config](gift-multiverse-config.md) — key setup decisions: Vite proxy, auth.tsx JSX fix, API rebuild pattern, seed command
+- [Gift Multiverse DB migration](gift-multiverse-migration.md) — drizzle-kit push needs TTY; use raw SQL DROP/CREATE migration script instead; JWT_SECRET set as shared env var
